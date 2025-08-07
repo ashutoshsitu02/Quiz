@@ -2,7 +2,7 @@
 
 A dynamic and interactive quiz application built with React. Users can start a quiz, answer multiple-choice questions, track their progress, see a countdown timer, and view their final score and high score at the end.
 
-![React Quiz App Screenshot](screenshot.png) <!-- Optional: Add a real screenshot if available -->
+![React Quiz App Screenshot](./public/image.png) <!-- Optional: Add a real screenshot if available -->
 
 ---
 
@@ -37,8 +37,8 @@ A dynamic and interactive quiz application built with React. Users can start a q
 ### Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/react-quiz-app.git
-cd react-quiz-app
+git clone https://github.com/ashutoshsitu02/Quiz.git
+cd Quiz
 npm install
 ```
 
